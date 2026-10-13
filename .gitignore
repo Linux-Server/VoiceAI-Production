@@ -221,3 +221,8 @@ __marimo__/
 
 # Eval outputs
 results/
+
+# Generated TTS audio
+tts/samples/
+tts/output/
+.DS_Store

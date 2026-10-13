@@ -1,0 +1,533 @@
+{
+ "p225": {
+  "speaker_id": "p225",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p228": {
+  "speaker_id": "p228",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p229": {
+  "speaker_id": "p229",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p231": {
+  "speaker_id": "p231",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p233": {
+  "speaker_id": "p233",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Staffordshire",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p234": {
+  "speaker_id": "p234",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "Scottish",
+  "region": "West Dumfries",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p236": {
+  "speaker_id": "p236",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Manchester",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p238": {
+  "speaker_id": "p238",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "NorthernIrish",
+  "region": "Belfast",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p239": {
+  "speaker_id": "p239",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "English",
+  "region": "SW England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p240": {
+  "speaker_id": "p240",
+  "text_id": "004",
+  "gender": "F",
+  "age": "21",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p244": {
+  "speaker_id": "p244",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "English",
+  "region": "Manchester",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p248": {
+  "speaker_id": "p248",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "Indian",
+  "region": "",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p249": {
+  "speaker_id": "p249",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "Scottish",
+  "region": "Aberdeen",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p250": {
+  "speaker_id": "p250",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "English",
+  "region": "SE England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p253": {
+  "speaker_id": "p253",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "Welsh",
+  "region": "Cardiff",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p257": {
+  "speaker_id": "p257",
+  "text_id": "004",
+  "gender": "F",
+  "age": "24",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p261": {
+  "speaker_id": "p261",
+  "text_id": "004",
+  "gender": "F",
+  "age": "26",
+  "accent": "NorthernIrish",
+  "region": "Belfast",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p262": {
+  "speaker_id": "p262",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "Scottish",
+  "region": "Edinburgh",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p264": {
+  "speaker_id": "p264",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "Scottish",
+  "region": "West Lothian",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p265": {
+  "speaker_id": "p265",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "Scottish",
+  "region": "Ross",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p266": {
+  "speaker_id": "p266",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "Irish",
+  "region": "Athlone",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p267": {
+  "speaker_id": "p267",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Yorkshire",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p268": {
+  "speaker_id": "p268",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Southern England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p269": {
+  "speaker_id": "p269",
+  "text_id": "004",
+  "gender": "F",
+  "age": "20",
+  "accent": "English",
+  "region": "Newcastle",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p276": {
+  "speaker_id": "p276",
+  "text_id": "004",
+  "gender": "F",
+  "age": "24",
+  "accent": "English",
+  "region": "Oxford",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p277": {
+  "speaker_id": "p277",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "NE England",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p280": {
+  "speaker_id": "p280",
+  "text_id": "004",
+  "gender": "F",
+  "age": "25",
+  "accent": "Unknown",
+  "region": "France",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p282": {
+  "speaker_id": "p282",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "English",
+  "region": "Newcastle",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p283": {
+  "speaker_id": "p283",
+  "text_id": "004",
+  "gender": "F",
+  "age": "24",
+  "accent": "Irish",
+  "region": "Cork",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p288": {
+  "speaker_id": "p288",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "Irish",
+  "region": "Dublin",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p293": {
+  "speaker_id": "p293",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "NorthernIrish",
+  "region": "Belfast",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p294": {
+  "speaker_id": "p294",
+  "text_id": "004",
+  "gender": "F",
+  "age": "33",
+  "accent": "American",
+  "region": "San Francisco",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p295": {
+  "speaker_id": "p295",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "Irish",
+  "region": "Dublin",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p297": {
+  "speaker_id": "p297",
+  "text_id": "004",
+  "gender": "F",
+  "age": "20",
+  "accent": "American",
+  "region": "New York",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p299": {
+  "speaker_id": "p299",
+  "text_id": "004",
+  "gender": "F",
+  "age": "25",
+  "accent": "American",
+  "region": "California",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p300": {
+  "speaker_id": "p300",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "American",
+  "region": "California",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p301": {
+  "speaker_id": "p301",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "American",
+  "region": "North Carolina",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p303": {
+  "speaker_id": "p303",
+  "text_id": "004",
+  "gender": "F",
+  "age": "24",
+  "accent": "Canadian",
+  "region": "Toronto",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p305": {
+  "speaker_id": "p305",
+  "text_id": "004",
+  "gender": "F",
+  "age": "19",
+  "accent": "American",
+  "region": "Philadelphia",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p306": {
+  "speaker_id": "p306",
+  "text_id": "004",
+  "gender": "F",
+  "age": "21",
+  "accent": "American",
+  "region": "New York",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p308": {
+  "speaker_id": "p308",
+  "text_id": "004",
+  "gender": "F",
+  "age": "18",
+  "accent": "American",
+  "region": "Alabama",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p310": {
+  "speaker_id": "p310",
+  "text_id": "004",
+  "gender": "F",
+  "age": "21",
+  "accent": "American",
+  "region": "Tennessee",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p312": {
+  "speaker_id": "p312",
+  "text_id": "004",
+  "gender": "F",
+  "age": "19",
+  "accent": "Canadian",
+  "region": "Hamilton",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p313": {
+  "speaker_id": "p313",
+  "text_id": "004",
+  "gender": "F",
+  "age": "24",
+  "accent": "Irish",
+  "region": "County Down",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p314": {
+  "speaker_id": "p314",
+  "text_id": "004",
+  "gender": "F",
+  "age": "26",
+  "accent": "SouthAfrican",
+  "region": "Cape Town",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p317": {
+  "speaker_id": "p317",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "Canadian",
+  "region": "Hamilton",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p323": {
+  "speaker_id": "p323",
+  "text_id": "004",
+  "gender": "F",
+  "age": "19",
+  "accent": "SouthAfrican",
+  "region": "Pretoria",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p329": {
+  "speaker_id": "p329",
+  "text_id": "004",
+  "gender": "F",
+  "age": "23",
+  "accent": "American",
+  "region": "",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p330": {
+  "speaker_id": "p330",
+  "text_id": "004",
+  "gender": "F",
+  "age": "26",
+  "accent": "American",
+  "region": "",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p333": {
+  "speaker_id": "p333",
+  "text_id": "004",
+  "gender": "F",
+  "age": "19",
+  "accent": "American",
+  "region": "Indiana",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p335": {
+  "speaker_id": "p335",
+  "text_id": "004",
+  "gender": "F",
+  "age": "25",
+  "accent": "NewZealand",
+  "region": "English",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p336": {
+  "speaker_id": "p336",
+  "text_id": "004",
+  "gender": "F",
+  "age": "18",
+  "accent": "SouthAfrican",
+  "region": "Johannesburg",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p339": {
+  "speaker_id": "p339",
+  "text_id": "004",
+  "gender": "F",
+  "age": "21",
+  "accent": "American",
+  "region": "Pennsylvania",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p340": {
+  "speaker_id": "p340",
+  "text_id": "004",
+  "gender": "F",
+  "age": "18",
+  "accent": "Irish",
+  "region": "Dublin",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p341": {
+  "speaker_id": "p341",
+  "text_id": "004",
+  "gender": "F",
+  "age": "26",
+  "accent": "American",
+  "region": "Ohio",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p343": {
+  "speaker_id": "p343",
+  "text_id": "004",
+  "gender": "F",
+  "age": "27",
+  "accent": "Canadian",
+  "region": "Alberta",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p351": {
+  "speaker_id": "p351",
+  "text_id": "004",
+  "gender": "F",
+  "age": "21",
+  "accent": "NorthernIrish",
+  "region": "Derry",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "p361": {
+  "speaker_id": "p361",
+  "text_id": "004",
+  "gender": "F",
+  "age": "19",
+  "accent": "American",
+  "region": "New Jersey",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ },
+ "s5": {
+  "speaker_id": "s5",
+  "text_id": "004",
+  "gender": "F",
+  "age": "22",
+  "accent": "British",
+  "region": "",
+  "text": "We also need a small plastic snake and a big toy frog for the kids."
+ }
+}
